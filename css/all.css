@@ -231,7 +231,7 @@ text-align: center;
   font-size:16px;
   font-family:Calibri;
   #list-style-type:none; 
-  list-style-image:url(images/icon_03.png);
+  list-style-image:url(file:///C:/Users/Hsiu/table/Downloads/Github/hw_week8/images/dot_blue.gif);
 }
 #content div.service li {
 	#display: inline;
@@ -239,7 +239,7 @@ text-align: center;
 	float: left;
 	#text-decoration:none;
 	#text-align:center;
-	#background-image:url("images/dot_blue.gif");
+	#background-image:url("/hw_week8/images/dot_blue.gif");
 }
 #content div.service li a {
 	text-decoration:none;
