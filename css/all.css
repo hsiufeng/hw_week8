@@ -245,6 +245,9 @@ text-align: center;
 	text-decoration:none;
 	color:black;
 }
+#content div.service ul li:hover a {
+    color:#0099CC;
+}
 #content .find_us {
   #margin-top:20px;
   width:30%;
